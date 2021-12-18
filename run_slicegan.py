@@ -30,7 +30,7 @@ data_path = ['Examples/NMC.tif']
 
 ## Network Architectures
 # Training image size, no. channels and scale factor vs raw data
-img_size, img_channels, scale_factor = 64, 2,  1
+img_size, img_channels, scale_factor = 64, 3,  1
 # z vector depth
 z_channels = 16
 # Layers in G and D
