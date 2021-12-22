@@ -21,7 +21,7 @@ Project_path = util.mkdr(Project_name, Project_dir, Training)
 ## Data Processing
 # Define image  type (colour, grayscale, three-phase or two-phase.
 # n-phase materials must be segmented)
-image_type = 'threephase'
+image_type = 'twophase'
 # define data type (for colour/grayscale images, must be 'colour' / '
 # greyscale. nphase can be, 'tif', 'png', 'jpg','array')
 data_type = 'tif'
